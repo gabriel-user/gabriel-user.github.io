@@ -23,8 +23,10 @@ li {
 
 #foto {
     float: left;
-    width: 255px;
-    margin-right: 15px;
+    width: 225px;
+    padding: 5px;
+    background-color: darkcyan;
+    margin: 10px;
 }
 
 #my-name {
