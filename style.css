@@ -33,10 +33,6 @@ li {
     text-align: center;
 }
 
-div {
-    border: 1px solid red;
-}
-
 .perfil-container {
     height: 290px;
 }
@@ -46,4 +42,8 @@ div {
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 5px;
+}
+
+#habilidades li:nth-of-type(odd) {
+    text-decoration: underline;
 }
