@@ -40,3 +40,10 @@ div {
 .perfil-container {
     height: 290px;
 }
+
+.menu {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
