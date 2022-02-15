@@ -21,6 +21,16 @@ li {
   font-family: "Archivo", sans-serif;
 }
 
-.perfil-image {
-  border-radius: 5%;
+#foto {
+    float: left;
+    width: 255px;
+    margin-right: 15px;
+}
+
+div {
+    border: 1px solid red;
+}
+
+.perfil-container {
+    height: 290px;
 }
